@@ -1,0 +1,15 @@
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\bin\Debug\magaz.exe.config
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\bin\Debug\magaz.exe
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\bin\Debug\magaz.pdb
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz.csproj.AssemblyReference.cache
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\MainWindow.g.cs
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\App.g.cs
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz_MarkupCompile.cache
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz_MarkupCompile.lref
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\MainWindow.baml
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz.g.resources
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz.Properties.Resources.resources
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz.csproj.GenerateResource.cache
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz.csproj.CoreCompileInputs.cache
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz.exe
+C:\Users\skyst\OneDrive\Рабочий стол\ToolsWorld-master\magaz\obj\Debug\magaz.pdb
