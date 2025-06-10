@@ -1,4 +1,4 @@
-# ToolsWorld
+# ToolsShop
 
 ## Описание
 GUI-приложение для магазина инструментов на WPF, Entity Framework и MS SQL Server.
